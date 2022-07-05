@@ -1,10 +1,11 @@
 import './App.css';
-import SwipeToSlide from './Swipetoslide';
+import Count from './CounterMain';
+
 
 function App() {
   return (
     
-      <SwipeToSlide/>
+      <Count/>
  
   );
 }
